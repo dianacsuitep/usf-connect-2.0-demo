@@ -1,0 +1,7 @@
+.App {
+  text-align: left;
+}
+
+.App * {
+  box-sizing: border-box;
+}
